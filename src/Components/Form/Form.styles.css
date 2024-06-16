@@ -1,0 +1,13 @@
+input {
+  margin-left: 10px;
+}
+
+.searchButton {
+  margin-left: 10px;
+}
+
+.backAndForwardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
