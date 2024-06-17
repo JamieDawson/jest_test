@@ -14,7 +14,7 @@ describe("BackwardsButton", () => {
     fireEvent.click(screen.getByText("Backwards"));
     // Add assertions here to verify the desired behavior
   });
-
+  //
   //********************************************************************************* */
   //Check if the value gets set to 1025
   it("Sets id to 1025 when id - 1 equals 0", () => {
